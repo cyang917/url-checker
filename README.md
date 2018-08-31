@@ -26,4 +26,5 @@ node link_check.js -u https://www.google.com -l 0
 ```
 ### Note
 links to a different host will be checked
+
 links discoverd on a different host will not be checked
