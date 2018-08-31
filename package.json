@@ -1,0 +1,19 @@
+{
+  "name": "broken-link-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node link_check.js"
+  },
+  "author": "Jay Chen",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.0",
+    "fs-extra": "^5.0.0",
+    "he": "^1.1.1",
+    "mustache": "^2.3.0",
+    "simplecrawler": "^1.1.6",
+    "yargs-parser": "^10.0.0"
+  }
+}
